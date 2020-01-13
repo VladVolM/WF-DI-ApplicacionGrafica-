@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\bin\Debug\AplicacionGraficaWF-DI.dll
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\bin\Debug\AplicacionGraficaWF-DI.pdb
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\obj\Debug\AplicacionGraficaWF-DI.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\obj\Debug\AplicacionGraficaWF_DI.UserControl1.resources
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\obj\Debug\AplicacionGraficaWF-DI.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\obj\Debug\AplicacionGraficaWF-DI.dll
+C:\Users\Usuario\Desktop\JAVA Prog\AplicacionGraficaWF-DI\AplicacionGraficaWF-DI\obj\Debug\AplicacionGraficaWF-DI.pdb
