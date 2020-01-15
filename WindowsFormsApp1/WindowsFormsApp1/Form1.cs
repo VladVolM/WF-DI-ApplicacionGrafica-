@@ -24,6 +24,7 @@ namespace WindowsFormsApp1
         string[,] DirImagen = new string[maxSize, 5];
         int numImagenAUsar = 0;
         bool sig = false, ant = false, res = false, eli = false, ima = false;
+        string Tip1= "Está visualizando la imagen ", Tip2= "La imagen seleccionada es ";
         void sustituir(int pos)
         {
             DirImagen[pos, 0] = DirImagen[pos + 1, 0];
@@ -44,6 +45,8 @@ namespace WindowsFormsApp1
             Image imagencargada = Image.FromFile(DirImagen[pos, 1]);
             pictureBox2.Image = imagencargada;
             this.Text = DirImagen[pos, 0].Replace(DirImagen[pos, 2], " ") + "- Visor";
+            toolTip1.SetToolTip(pictureBox2, Tip1 + DirImagen[pos, 0]);
+            toolTip1.SetToolTip(listBox1, Tip2 + DirImagen[pos, 0]);
         }
         void eliminar() {
             if (listBox1.Items.Count > 0)
@@ -222,6 +225,8 @@ namespace WindowsFormsApp1
                     listBox1.Items.Clear();
                     numImagenAUsar = 0;
                     comprobarMovimientos();
+                    toolTip1.SetToolTip(pictureBox2, "No se representa ninguna imagen");
+                    toolTip1.SetToolTip(listBox1, "No está elegida ninguna imagen");
                 }
             }
         }

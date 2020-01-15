@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
@@ -53,6 +54,7 @@
             this.eliminarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.siguienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.anteriorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.menuStrip1.SuspendLayout();
@@ -184,6 +186,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(221, 218);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
+            this.toolTip1.SetToolTip(this.pictureBox2, "No se representa ninguna imagen");
             // 
             // listBox1
             // 
@@ -193,6 +196,7 @@
             this.listBox1.Size = new System.Drawing.Size(240, 108);
             this.listBox1.TabIndex = 2;
             this.listBox1.TabStop = false;
+            this.toolTip1.SetToolTip(this.listBox1, "No está elegida ninguna imagen");
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // button1
@@ -246,7 +250,7 @@
             // resetToolStripMenuItem
             // 
             this.resetToolStripMenuItem.Name = "resetToolStripMenuItem";
-            this.resetToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.resetToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
             this.resetToolStripMenuItem.Text = "Reset";
             this.resetToolStripMenuItem.Click += new System.EventHandler(this.resetToolStripMenuItem_Click);
             // 
@@ -342,6 +346,7 @@
         private System.Windows.Forms.ToolStripMenuItem eliminarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem siguienteToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem anteriorToolStripMenuItem;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

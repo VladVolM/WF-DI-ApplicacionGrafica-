@@ -7,3 +7,12 @@ C:\Users\Usuario\Desktop\JAVA Prog\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\W
 C:\Users\Usuario\Desktop\JAVA Prog\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\Usuario\Desktop\JAVA Prog\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Usuario\Desktop\JAVA Prog\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\WF-DI-ApplicacionGrafica--master\WF-DI-ApplicacionGrafica--master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
